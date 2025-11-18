@@ -1,0 +1,50 @@
+table {
+
+  display: flex;
+  flex-wrap: wrap;
+  gap: 50px;
+  align-items: center;
+  justify-content: center;
+
+
+}
+
+.car {
+  border-bottom: 1px solid rgb(189, 188, 188);
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  gap: 50px;
+  width: 1200px;
+  height: 60px;
+}
+
+h2 {
+  display: flex;
+  align-items: center;
+  width: 15%;
+  text-wrap: nowrap;
+}
+
+button {
+  width: 80px;
+  height: 30px;
+  border: none;
+  border-radius: 5px;
+}
+.box{
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.car2{
+  display: flex;
+  gap: 30px;
+}
+
+input{
+  width: 216px;
+  height: 40px;
+  border-radius: 10px;
+}
